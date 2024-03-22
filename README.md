@@ -15,20 +15,35 @@ The primary objective of the project is to generate insights that will assist Mi
 
 # VISUALIZATIONS
 ## The most Popular Genre
+![Genre Rating Relationship](https://https://github.com/dennis2440/dsc-phase-1-project/blob/master/genre%20visulation.png)
 
+From the bar graph we can say that Drama is most popular Genre in movie industry.It has the tallest bar
 
-
+The data is useful since Microsoft can major on the genre is most liked promising to bring highy results
 
 ## Relationship between Runtime and Average Rating
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-1-project/blob/master/runtime.png)
 
+The graph suggests that shorter items tend to have higher average ratings. This could be used to guide decisions on the length of future items
+So Microsoft should not make films that 120 minutes long it will impact the rating of the film and considering others factors that will make the film have a lower rating
 
 ## Most Common Language
+[Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-1-project/blob/master/lang.png)
 
+English is the most common language in the top 10 movie languages.
+
+If Microsoft is going to deal with movies,the graph suggests that a significant portion of movies are in English.This could act to guide decisions on the languages to focus on for subtitles, dubbing, or other localization efforts
 
 ## Does Prodution Budget affect Worldwide Gross
+[Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-1-project/blob/master/buget.png)
 
+From the data, it can be observed that the majority of the productions have a worldwide gross revenue significantly higher than their production budgets
 
 ## The Best 20 Studios
+[Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-1-project/blob/master/studio.png)
+
+Disney (referred to as BV), and Universal (referred to as Uni.) hold a considerably larger market share than others
+
 
 ## Conclusion
 1.While movies with higher budgets tend to generate more profit than lower-budget ones, Microsoft should be cautious not to overspend on production budgets, as this could result in financial losses while aiming for increased profits.
