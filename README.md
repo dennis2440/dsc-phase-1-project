@@ -15,7 +15,7 @@ The primary objective of the project is to generate insights that will assist Mi
 
 # VISUALIZATIONS
 ## The most Popular Genre
-!(https://https://github.com/dennis2440/dsc-phase-1-project/blob/master/genre%20visulation.png)
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-1-project/blob/master/genre%20visulation.png)
 
 From the bar graph we can say that Drama is most popular Genre in movie industry.It has the tallest bar
 
